@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "codmw2-fake-keygen_remake", "codmw2-fake-keygen_remake\codmw2-fake-keygen_remake.vbproj", "{6BB72EF7-88C3-42C7-8A51-7F5F9C6F8DE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB72EF7-88C3-42C7-8A51-7F5F9C6F8DE3}.Debug|x86.ActiveCfg = Debug|x86
+		{6BB72EF7-88C3-42C7-8A51-7F5F9C6F8DE3}.Debug|x86.Build.0 = Debug|x86
+		{6BB72EF7-88C3-42C7-8A51-7F5F9C6F8DE3}.Release|x86.ActiveCfg = Release|x86
+		{6BB72EF7-88C3-42C7-8A51-7F5F9C6F8DE3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
